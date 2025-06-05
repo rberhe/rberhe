@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rewithrora//">Josh Madakor</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/rewithrora//">Rora Berhe</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I’m passionate about cybersecurity because I believe in protecting people, organizations, and data from ever-evolving digital threats. With a strong foundation in compliance and a growing knowledge of security principles, I’m driven to contribute to a safer, more secure digital world. I’m continuously learning and eager to bring both technical curiosity and a strong sense of responsibility to the cybersecurity field.
 
