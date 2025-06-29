@@ -9,7 +9,7 @@ I’m passionate about cybersecurity because I believe in protecting people, org
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/rberhe/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)]([https://github.com/rberhe/threat-hunting-scenario-tor](https://github.com/rberhe/Threat-Hunting-Seneario-TOR))**
 
 <hr/>
 
